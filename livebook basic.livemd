@@ -1,9 +1,13 @@
-# Untitled
+# Live book learning
 
 ## Section
 
 ```elixir
 a = 1
-b = 2
+```
+
+## Hello world
+
+```elixir
 [a, b] = [1, 2]
 ```
